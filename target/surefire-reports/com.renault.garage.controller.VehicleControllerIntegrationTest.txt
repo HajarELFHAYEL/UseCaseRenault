@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.renault.garage.controller.VehicleControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 61.29 s -- in com.renault.garage.controller.VehicleControllerIntegrationTest
